@@ -9,9 +9,9 @@
 
 ## 1. Introduction: The Creative Death Sentence
 
-The traditional video game business model is structurally broken for small teams. The industry treats game development like Hollywood movie production: you burn capital upfront, rely on creative intuition, launch into a brutal market, and pray for a "hit." 
+The traditional video game business model is structurally broken for small teams. The industry treats game development like Hollywood movie production: you burn capital upfront, rely on creative intuition, launch into a brutal market, and hope for a "hit." 
 
-In the current macroeconomic environment—defined by massive corporate layoffs, hyper-saturated app stores, and sky-high paid User Acquisition (UA) costs—this "build-and-pray" methodology is an absolute death sentence. 
+In the current macroeconomic environment—defined by massive corporate layoffs, hyper-saturated app stores, and sky-high paid User Acquisition (UA) costs—this "build and hope" methodology is an absolute death sentence. 
 
 If you are a solo developer or a small team transitioning from corporate employment to indie survival, you cannot afford to act like an entertainment studio. You do not have the runway to discover "the fun" through endless manual iterations. You must treat your game not as a static piece of creative software, but as a **self-optimizing, closed-loop data product**.
 
