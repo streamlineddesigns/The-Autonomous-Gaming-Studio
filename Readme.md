@@ -46,7 +46,7 @@ The absolute core of this approach is changing your definition of a failed game.
 
 Under an automated KPI scaling framework, that game is simply **uncalibrated raw material**.
 
-Instead of abandoning a project that doesn't hit initial benchmarks, you wrap it in this automation architecture. You allow the DDA engine to fix the retention curve, you let the Hierarchical Grid Search balance the ad-to-IAP ratios, and you let real-time predictive LTV (pLTV) algorithms automatically segment non-spenders out of your premium mechanics into rewarded-ad pipelines. You let the data sculpt the game until it hits a positive ROI.
+Instead of abandoning a project that doesn't hit initial benchmarks, you wrap it in this automation architecture. You allow the DDA engine to fix the retention curve, you let the Hierarchical Grid Search balance the ad-to-IAP ratios, and you let real-time predictive LTV (pLTV) algorithms automatically segment non-spenders out of your premium mechanics into rewarded-ad pipelines. You implment an ML pipeline to build, gameplay test, and A/B test your levels to automatically increase session length. You let the data sculpt the game until it hits a positive ROI.
 
 ---
 
