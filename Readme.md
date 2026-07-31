@@ -21,7 +21,7 @@ This paper outlines an architectural framework to build a **Learned Game**: an e
 
 ## 2. Architectural Blueprint: The Unified Lifecycle Engine
 
-To survive alone, your game engine must handle telemetry, content creation, playtesting, and monetization optimization completely in parallel. The entire architecture can be mapped into three interconnected layers:
+To survive alone, your game shell must handle telemetry, content creation, playtesting, and monetization optimization completely in parallel. The entire architecture can be mapped into four interconnected layers:
 
 ### Phase A: The Monetization & Progression Layer
 Do not guess your ad frequencies, item values, or reward gates. Expose every single business variable to remote configuration parameters via standardized internal JSON state flags.
