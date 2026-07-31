@@ -1,7 +1,7 @@
 # The Autonomous Gaming Studio: Survival via Algorithmic KPI Scaling & Self-Optimizing Game Loops
 
 ### A Technical Manifesto for Modern Indie Game Developers and Solo Founders
-**Author:** Storm / StudioByStorm
+**Author:** Pierce Prange / StudioByStorm  
 **Target Audience:** Indie Developers, Laid-off Corporate Engineers, Solo Founders, and Post-Mortem Teams.  
 **Objective:** To outline a sustainable, revenue-aware architectural framework that eliminates creative dependency, de-risks content production, and automates monetization survival in a hyper-competitive market.
 
