@@ -11,7 +11,7 @@
 
 The traditional video game business model is structurally broken for small teams. The industry treats game development like Hollywood movie production: you burn capital upfront, rely on creative intuition, launch into a brutal market, and hope for a "hit." 
 
-In the current macroeconomic environment—defined by massive corporate layoffs, hyper saturated app stores, and sky high paid User Acquisition (UA) costs—this "build and hope" methodology is an absolute death sentence. 
+In the current macroeconomic environment defined by massive corporate layoffs, hyper saturated app stores, and sky high paid User Acquisition (UA) costs this "build and hope" methodology is an absolute death sentence. 
 
 If you are a solo developer or a small team transitioning from corporate employment to indie survival, you cannot afford to act like an entertainment studio. You do not have the runway to discover "the fun" through endless manual iterations. You must treat your game not as a static piece of creative software, but as a **self optimizing, closed loop data product**.
 
@@ -35,7 +35,7 @@ Humans cannot author content fast enough to beat user consumption, and manual le
 
 ### Phase C: The Evaluation Loop (Eliminating Human QA)
 The ultimate bottleneck to infinite procedural content is ensuring a machine generated level is actually beatable and engaging. 
-* **Deep ResNet Bot Simulations:** Run reinforcement learning agents or Deep Residual Networks (ResNets)—trained to simulate human play styles—through your PCG candidate levels at 100x speed. The bots evaluate whether a level is winnable, calculate maximum/minimum move parameters, and catch broken physics or soft locks.
+* **Deep ResNet Bot Simulations:** Run reinforcement learning agents or Deep Residual Networks (ResNets) trained to simulate human play styles through your PCG candidate levels at 100x speed. The bots evaluate whether a level is winnable, calculate maximum/minimum move parameters, and catch broken physics or soft locks.
 * **The Candidate to Production Pipeline:** Levels that pass the ResNet test graduate to "Candidate" status. The LiveOps system serves these new levels to a small cohort of real players (e.g., 10%). If the funnel metrics show stable completion and ad watching rates, the pipeline automatically promotes the level to the global production pool. If it drops off, the level is replaced repeatedly until metrics are solid.
 
 ---
