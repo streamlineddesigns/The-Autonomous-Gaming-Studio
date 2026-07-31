@@ -80,4 +80,4 @@ Let the systems optimize. Let the data build. Let the game learn.
 ---
 
 ## How to Get Involved / Contribute
-We are mapping out foundational schema structures, state machines, and open source SDK modules to help indies deploy this architecture without relying on massive, expensive enterprise corporate tools. 
+We are mapping out foundational schema structures & open source SDK modules to help indies deploy this architecture without relying on massive, expensive enterprise corporate tools. 
