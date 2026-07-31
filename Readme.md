@@ -1,4 +1,4 @@
-# The Autonomous Gaming Studio: Survival via Algorithmic KPI Scaling & Self Optimizing Game Loops
+# The AGS (Autonomous Gaming Studio): Survival via Algorithmic KPI Scaling & Self Optimizing Game Loops
 
 ### A Technical Manifesto for Modern Indie Game Developers and Solo Founders
 **Author:** StudioByStorm  
