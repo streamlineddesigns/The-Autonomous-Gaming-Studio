@@ -23,9 +23,6 @@ This paper outlines an architectural framework to build a **Learned Game**: an e
 
 To survive alone, your game engine must handle telemetry, content creation, playtesting, and monetization optimization completely in parallel. The entire architecture can be mapped into three interconnected layers:
 
-[ MONETIZATION LAYER ] ──> Hierarchical Grid Search (Ads) + Deterministic A/B (IAP Price)▲│ (Telemetry & Segment Alignment)▼
-[ CONTENT GENERATION ] ──> ML-Powered PCG + Dynamic Difficulty Adjustment (DDA)▲│ (Pre-vetted Production Levels)▼
-[ EVALUATION LOOP     ] ──> Deep ResNet Bot Testing ──> Level Progression Analysis
 ### Phase A: The Monetization Layer (Algorithmic ARPU Tuning)
 Do not guess your ad frequencies or item prices. Expose every single business variable to remote configuration parameters (e.g., via specialized or internal JSON state flags).
 * **Hierarchical Grid Search for Ads:** Programmatically cycle through ad pacing rules (e.g., time gaps between interstitial ads, rewarded video currency multipliers, or eCPM floors). The engine tests these combinations on tiny, isolated cohorts, automatically scaling the configurations that maximize Average Revenue Per Daily Active User (ARPDAU) without degrading retention.
