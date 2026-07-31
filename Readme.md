@@ -42,7 +42,7 @@ Rather than launching a raw, complex multiplayer infrastructure on Day 1, the ga
 
 ### Phase D: The Evaluation Loop (Eliminating Human QA)
 The ultimate bottleneck to infinite procedural content is ensuring machine generated levels are actually winnable and engaging.
-* **Deep ResNet Bot Simulations:** Run reinforcement learning agents or Deep Residual Networks (ResNets) trained to simulate human play styles—through your PCG candidate levels at 100x speed. The bots evaluate whether a level is winnable, calculate maximum/minimum move parameters, and catch broken physics or soft locks.
+* **Deep ResNet Bot Simulations:** Run reinforcement learning agents or Deep Residual Networks (ResNets) trained to simulate human play styles through your PCG candidate levels at 100x speed. The bots evaluate whether a level is winnable, calculate maximum/minimum move parameters, and catch broken physics or soft locks.
 * **The Candidate to Production Pipeline:** Levels that pass the ResNet test graduate to "Candidate" status. The LiveOps system serves these new levels to a small cohort of real players (e.g., 10%). If the funnel metrics show stable completion and ad watching rates, the pipeline automatically promotes the level to the global production pool. If it drops off, the level is replaced repeatedly by the PCG pipeline until metrics are solid.
 
 ---
